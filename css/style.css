@@ -20,7 +20,11 @@ footer{
     margin: auto;
     height: 100px;
     background-color: #303030;
-    margin-bottom:50px ;
+    margin-bottom:50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: bisque;
+    margin-top: -10;
 }
 
 .conteudo{
