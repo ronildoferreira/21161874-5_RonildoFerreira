@@ -1,5 +1,5 @@
-
 <?php include "head.php"?>
+
 <body>
 <div class="conteudo">
     <h4>Sobre A Doceria do Povo<h4>
