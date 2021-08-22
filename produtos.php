@@ -1,16 +1,18 @@
 <?php
 
-include "head.php"
-
+include "head.php";
+include "functions/functions.php";
+$dadosInfo = [];
 ?>
 
 <html>
-
+<img src="imagens/img04.jpg" width=120 height="80"/>
 <?php 
-
-echo $produtos;
-
+$dadosInfo = [];
+exibirProduto($produtoInfo);
 ?>
+
+<br>
 </html>
 
 <?php include "footer.php"?>

@@ -2,7 +2,10 @@
 <?php include "head.php"?>
 <body>
 <div class="conteudo">
+    <h4>Sobre A Doceria do Povo<h4>
+        <img src="imagens/img11.jpeg" width=150 heigth="100">
 <p>
+
 é simplesmente um texto fictício da indústria de impressão e composição. 
 Lorem Ipsum tem sido o texto fictício padrão da indústria desde 1500, 
 quando um impressor desconhecido pegou um modelo de impressão e embaralhou-o 

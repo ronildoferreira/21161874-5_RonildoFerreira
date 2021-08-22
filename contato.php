@@ -1,13 +1,20 @@
 <?php
 
-include "head.php"
 
+
+include "head.php";
+include "functions/functions.php";
+$dadosInfo = [];
 
 ?>
 
 <html>
 <div class="contato">
 
-</html>
-<?php echo $dados;?>
+
+<?php exibirDado($dadosInfo);?>
+
+<br>
 <?php include "footer.php"?>
+
+</html>
