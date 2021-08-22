@@ -2,10 +2,12 @@
 
 include "head.php"
 
+
 ?>
 
 <html>
-produtos
-</html>
+<div class="contato">
 
+</html>
+<?php echo $dados;?>
 <?php include "footer.php"?>

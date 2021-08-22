@@ -1,5 +1,11 @@
 <?php
 
+include "head.php"
 
-echo "plá"
 ?>
+
+<html>
+olá novo contato
+</html>
+
+<?php include "footer.php"?>

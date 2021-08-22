@@ -5,7 +5,7 @@ include "head.php"
 ?>
 
 <html>
-produtos
+quem somos
 </html>
 
 <?php include "footer.php"?>

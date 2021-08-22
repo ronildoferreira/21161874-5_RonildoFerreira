@@ -5,7 +5,12 @@ include "head.php"
 ?>
 
 <html>
-produtos
+
+<?php 
+
+echo $produtos;
+
+?>
 </html>
 
 <?php include "footer.php"?>
