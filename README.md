@@ -2,10 +2,10 @@
 
 
 :shipit: Criando meu Index :ok: <br>
-:sparkles: Criando diretório "pages" :ok:
-:-1: Criando "dados" :ok:
-:+1: Adicionando dados da página na minha página "produtos" :ok:
-:clap: Integrando o Google Maps na página "localicação" :ok:
-:sparkles: Incluindo Imagens :ok:
+:sparkles: Criando diretório "pages" :ok: <br>
+:+1: Criando "dados" :ok: <br>
+:+1: Adicionando dados da página na minha página "produtos" :ok: <br>
+:clap: Integrando o Google Maps na página "localicação" :ok: <br>
+:sparkles: Incluindo Imagens :ok: <br>
 
 
