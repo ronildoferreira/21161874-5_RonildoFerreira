@@ -11,8 +11,8 @@ $dadosInfo = [];
 $dadosInfo = [];
 exibirProduto($produtoInfo);
 ?>
-
-<br>
+<button class="botão">Ver todos</button>
+<br><br><br>
 </html>
 
 <?php include "footer.php"?>
