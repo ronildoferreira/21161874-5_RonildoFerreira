@@ -7,7 +7,7 @@
 :+1: Adicionando dados da página na minha página "produtos" :ok: <br>
 :clap: Integrando o Google Maps na página "localicação" :ok: <br>
 :sparkles: Incluindo Imagens :ok: <br>
-:-1: aplicar CSS ou Bootstrap no Projeto :not:
-:+1: Código de Integração Google Mapas :yes:
+:-1: aplicar CSS ou Bootstrap no Projeto :not:<br>
+:+1: Código de Integração Google Mapas :yes:<br>
 
 
