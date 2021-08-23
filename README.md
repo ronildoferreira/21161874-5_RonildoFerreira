@@ -1,4 +1,4 @@
-# 21161874-5_RonildoFerreira
+﻿# 21161874-5_RonildoFerreira
 
 
 :shipit: Criando meu Index :ok: <br>
@@ -8,5 +8,6 @@
 :clap: Integrando o Google Maps na página "localicação" :ok: <br>
 :sparkles: Incluindo Imagens :ok: <br>
 :-1: aplicar CSS ou Bootstrap no Projeto :not:
+:+1: Código de Integração Google Mapas :yes:
 
 
